@@ -10,6 +10,8 @@ Link to articles:
   - Mentioned here: https://pigeons.run/dev/
 
 - [Bayesian Data Analysis, Third edition - Gelman et al. 2021](http://www.stat.columbia.edu/~gelman/book/)
+- [A Student's Guide to Bayesian Statistics - Lambert 2018](https://sites.math.rutgers.edu/~zeilberg/EM20/Lambert.pdf)
+
 - [Markov Chain Monte Carlo Lecture Notes - Geyer 2005](https://www.stat.umn.edu/geyer/f05/8931/n1998.pdf)
 
 Link to code from article: https://github.com/UBC-Stat-ML/gibbs-vs-hmc-mev
