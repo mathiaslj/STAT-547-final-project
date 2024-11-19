@@ -8,7 +8,9 @@ Link to articles:
   - Mentioned here: https://pigeons.run/dev/variational/
 - [autoMALA: Locally adaptive Metropolis-adjusted Langevin algorithm - Biron-Lattes et al. 2024](https://proceedings.mlr.press/v238/biron-lattes24a.html)
   - Mentioned here: https://pigeons.run/dev/
+
 - [nimbleAPT: Adaptive Parallel Tempering for 'NIMBLE' (R package)](https://CRAN.R-project.org/package=nimbleAPT)
+- [qslice: Implementations of Various Slice Samplers (R package)](https://CRAN.R-project.org/package=qslice)
 
 - [Bayesian Data Analysis, Third edition - Gelman et al. 2021](http://www.stat.columbia.edu/~gelman/book/)
 - [A Student's Guide to Bayesian Statistics - Lambert 2018](https://sites.math.rutgers.edu/~zeilberg/EM20/Lambert.pdf)
