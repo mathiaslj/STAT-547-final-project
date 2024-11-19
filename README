@@ -9,4 +9,7 @@ Link to articles:
 - [autoMALA: Locally adaptive Metropolis-adjusted Langevin algorithm - Biron-Lattes et al. 2024](https://proceedings.mlr.press/v238/biron-lattes24a.html)
   - Mentioned here: https://pigeons.run/dev/
 
+- [Bayesian Data Analysis, Third edition - Gelman et al. 2021](http://www.stat.columbia.edu/~gelman/book/)
+- [Markov Chain Monte Carlo Lecture Notes - Geyer 2005](https://www.stat.umn.edu/geyer/f05/8931/n1998.pdf)
+
 Link to code from article: https://github.com/UBC-Stat-ML/gibbs-vs-hmc-mev
