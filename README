@@ -1,3 +1,12 @@
-Link to article: https://arxiv.org/abs/2410.03630
+Link to articles:
+- Main article: [Is Gibbs sampling faster than Hamiltonian Monte Carlo on GLMs? - Luu et al. 2024](https://arxiv.org/abs/2410.03630)
+- [Slice sampling - Neal 2003](https://projecteuclid.org/journals/annals-of-statistics/volume-31/issue-3/Slice-sampling/10.1214/aos/1056562461.full)
+  - Mentioned 
+- [Non-reversible parallel tempering: A scalable highly parallel MCMC scheme - Syed et al. 2021](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12464)
+  - Mentioned at the top here: https://pigeons.run/dev/distributed/
+- [Parallel Tempering With a Variational Reference - Surjanovic et al. 2022](https://arxiv.org/abs/2206.00080)
+  - Mentioned here: https://pigeons.run/dev/variational/
+- [autoMALA: Locally adaptive Metropolis-adjusted Langevin algorithm - Biron-Lattes et al. 2024](https://proceedings.mlr.press/v238/biron-lattes24a.html)
+  - Mentioned here: https://pigeons.run/dev/
 
 Link to code from article: https://github.com/UBC-Stat-ML/gibbs-vs-hmc-mev
