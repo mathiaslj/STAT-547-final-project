@@ -1,7 +1,14 @@
 Link to articles:
 - Main article: [Is Gibbs sampling faster than Hamiltonian Monte Carlo on GLMs? - Luu et al. 2024](https://arxiv.org/abs/2410.03630)
+
+Slice sampling methods:
+- [qslice: Implementations of Various Slice Samplers (R package)](https://CRAN.R-project.org/package=qslice)
 - [Slice sampling - Neal 2003](https://projecteuclid.org/journals/annals-of-statistics/volume-31/issue-3/Slice-sampling/10.1214/aos/1056562461.full)
   - Mentioned 
+- [Nishihara et al. (2014)](https://jmlr.org/papers/v15/nishihara14a.html)
+- [Murray et al. (2010)](https://proceedings.mlr.press/v9/murray10a)
+
+Other links:
 - [Non-reversible parallel tempering: A scalable highly parallel MCMC scheme - Syed et al. 2021](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12464)
   - Mentioned at the top here: https://pigeons.run/dev/distributed/
 - [Parallel Tempering With a Variational Reference - Surjanovic et al. 2022](https://arxiv.org/abs/2206.00080)
@@ -11,7 +18,6 @@ Link to articles:
 - A simple sampler for the horseshoe distribution https://arxiv.org/pdf/1508.03884
 
 - [nimbleAPT: Adaptive Parallel Tempering for 'NIMBLE' (R package)](https://CRAN.R-project.org/package=nimbleAPT)
-- [qslice: Implementations of Various Slice Samplers (R package)](https://CRAN.R-project.org/package=qslice)
 
 - [Bayesian Data Analysis, Third edition - Gelman et al. 2021](http://www.stat.columbia.edu/~gelman/book/)
 - [A Student's Guide to Bayesian Statistics - Lambert 2018](https://sites.math.rutgers.edu/~zeilberg/EM20/Lambert.pdf)
