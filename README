@@ -1,5 +1,9 @@
+Final project is available in pdf.
+
+Notes from finding articles while researching:
 Link to articles:
 - Main article: [Is Gibbs sampling faster than Hamiltonian Monte Carlo on GLMs? - Luu et al. 2024](https://arxiv.org/abs/2410.03630)
+- Link to code from article: https://github.com/UBC-Stat-ML/gibbs-vs-hmc-mev
 
 Slice sampling methods:
 - [qslice: Implementations of Various Slice Samplers (R package)](https://CRAN.R-project.org/package=qslice)
@@ -26,5 +30,3 @@ Other links:
 - [Markov Chain Monte Carlo Lecture Notes - Geyer 2005](https://www.stat.umn.edu/geyer/f05/8931/n1998.pdf)
 - [Simple example: Linear Regression using bayesian statistics Metropolis-Hastings MCMC in R](https://khayatrayen.github.io/MCMC.html)
 - [Gibbs sampler with R](https://malouche.github.io/BayesianStatistics/Gibbs_sampler.html)
-
-Link to code from article: https://github.com/UBC-Stat-ML/gibbs-vs-hmc-mev
